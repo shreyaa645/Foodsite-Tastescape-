@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 document.addEventListener("DOMContentLoaded", function () {
     // Get references to HTML elements
     const inputBox = document.getElementById("inputbox");
@@ -106,7 +105,6 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
-=======
 document.addEventListener("DOMContentLoaded", function () {
     // Get references to HTML elements
     const inputBox = document.getElementById("inputbox");
@@ -214,4 +212,3 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
->>>>>>> b6ddf9c8c08497a8dce15bbf1488871d426d51d7
